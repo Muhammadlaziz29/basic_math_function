@@ -14,7 +14,7 @@ Create function named func with a argument
 import 'dart:math';
 
 double func(double x, double y) {
-  return (pow(cos(x), 3) + pow(sin(y), 2)).roundToDouble();
+  return (pow(cos(x), 2) + pow(sin(y), 2)).roundToDouble();
 }
 
 void main() {
