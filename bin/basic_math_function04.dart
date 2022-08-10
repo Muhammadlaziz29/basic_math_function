@@ -10,7 +10,7 @@
 
 import 'dart:math';
 int func(int x,double y) {
-    double a = x * y;
+    double a = x * sin(y);
     int v = a.round();
     return v;
 }
