@@ -12,5 +12,5 @@ double func(int square_area ) {
 }
 
 void main() {
-    print(func(15));
+    print(func(16));
 }
