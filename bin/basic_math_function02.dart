@@ -12,5 +12,5 @@ double func(int r) {
 }
 
 void main() {
-    print(func(4));
+    print(func(5));
 }
