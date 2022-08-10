@@ -16,6 +16,6 @@ int func(int x,double y) {
 }
 
 void main() {
-    print(func(7,pi/3));
+    print(func(8,pi/3));
 }
 
